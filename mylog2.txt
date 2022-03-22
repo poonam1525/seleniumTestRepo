@@ -1,0 +1,32 @@
+[INFO ] 2022-03-01 00:24:05.400 [main] TestNGDemo3 - inside setup
+[DEBUG] 2022-03-01 00:24:05.417 [main] TestNGDemo3 - This is a debug message
+[INFO ] 2022-03-01 00:24:05.418 [main] TestNGDemo3 - This is an info message
+[WARN ] 2022-03-01 00:24:05.418 [main] TestNGDemo3 - This is a warn message
+[ERROR] 2022-03-01 00:24:05.418 [main] TestNGDemo3 - This is an error message
+[FATAL] 2022-03-01 00:24:05.419 [main] TestNGDemo3 - This is a fatal message
+[INFO ] 2022-03-01 00:24:11.918 [main] TestNGDemo3 - inside test2
+[INFO ] 2022-03-01 00:24:46.151 [main] TestNGDemo3 - end of test2
+[INFO ] 2022-03-01 00:24:49.500 [main] TestNGDemo3 - closing the browser
+[INFO ] 2022-03-01 00:24:49.502 [main] TestNGDemo3 - inside setup
+[DEBUG] 2022-03-01 00:24:49.502 [main] TestNGDemo3 - This is a debug message
+[INFO ] 2022-03-01 00:24:49.503 [main] TestNGDemo3 - This is an info message
+[WARN ] 2022-03-01 00:24:49.503 [main] TestNGDemo3 - This is a warn message
+[ERROR] 2022-03-01 00:24:49.503 [main] TestNGDemo3 - This is an error message
+[FATAL] 2022-03-01 00:24:49.503 [main] TestNGDemo3 - This is a fatal message
+[INFO ] 2022-03-01 00:24:55.961 [main] TestNGDemo3 - closing the browser
+[INFO ] 2022-03-01 16:57:17.530 [main] TestNGDemo3 - inside setup
+[DEBUG] 2022-03-01 16:57:17.590 [main] TestNGDemo3 - This is a debug message
+[INFO ] 2022-03-01 16:57:17.590 [main] TestNGDemo3 - This is an info message
+[WARN ] 2022-03-01 16:57:17.590 [main] TestNGDemo3 - This is a warn message
+[ERROR] 2022-03-01 16:57:17.590 [main] TestNGDemo3 - This is an error message
+[FATAL] 2022-03-01 16:57:17.590 [main] TestNGDemo3 - This is a fatal message
+[INFO ] 2022-03-01 16:57:44.114 [main] TestNGDemo3 - inside test2
+[INFO ] 2022-03-01 16:58:18.125 [main] TestNGDemo3 - end of test2
+[INFO ] 2022-03-01 16:58:18.959 [main] TestNGDemo3 - closing the browser
+[INFO ] 2022-03-01 16:58:18.961 [main] TestNGDemo3 - inside setup
+[DEBUG] 2022-03-01 16:58:18.961 [main] TestNGDemo3 - This is a debug message
+[INFO ] 2022-03-01 16:58:18.961 [main] TestNGDemo3 - This is an info message
+[WARN ] 2022-03-01 16:58:18.961 [main] TestNGDemo3 - This is a warn message
+[ERROR] 2022-03-01 16:58:18.961 [main] TestNGDemo3 - This is an error message
+[FATAL] 2022-03-01 16:58:18.961 [main] TestNGDemo3 - This is a fatal message
+[INFO ] 2022-03-01 16:58:24.103 [main] TestNGDemo3 - closing the browser
