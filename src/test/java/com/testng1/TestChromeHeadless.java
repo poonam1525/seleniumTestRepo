@@ -20,6 +20,7 @@ public class TestChromeHeadless {
         options.addArguments("headless");
        // options.addArguments("--windows-size=1366,768");
         options.addArguments("window-size=1920,1200");
+        //test1
 
         WebDriver driver = new ChromeDriver(options);
         driver.get("https://www.techlistic.com/p/selenium-practice-form.html");
